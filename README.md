@@ -1,9 +1,11 @@
-# nmsh-input
+# qb-input
 
 # My Discord Server
 https://discord.gg/AXEVAqH7yX
 
-![Uploading image.png…](https://media.discordapp.net/attachments/1126640360664338572/1196101785899761684/image.png?ex=65b66798&is=65a3f298&hm=fa3a236112d6226b4659ad5bb90675b737f41f9fa1e89fd91425aaaedad53ac3&=&format=webp&quality=lossless&width=1202&height=676)
+
+![image](https://github.com/user-attachments/assets/570ddba8-286e-4fc8-9b80-82bce8c2ea50)
+
 ## Example
 
 Here is an example commant which will create a basic form and will print out it's inputs:
