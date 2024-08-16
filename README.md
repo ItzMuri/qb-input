@@ -1,8 +1,5 @@
 # qb-input
 
-# My Discord Server
-https://discord.gg/AXEVAqH7yX
-
 
 ![image](https://github.com/user-attachments/assets/570ddba8-286e-4fc8-9b80-82bce8c2ea50)
 
